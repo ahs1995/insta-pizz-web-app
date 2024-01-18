@@ -6,7 +6,7 @@ Welcome to instapizz, your ultimate destination for a delightful pizza ordering 
 
 ## Demo
 
-Check out instapizz in action: /_this field will be updated after deplyoyment8_/
+Check out instapizz in action: https://insta-pizz-webapp-ahs.netlify.app/
 
 ## Features
 
@@ -53,6 +53,6 @@ Review and mark your order as priority (if not done during form submission).
 
 ## Demo
 
-Check out instapizz in action: /_this field will be updated after deplyoyment8_/
+Check out instapizz in action: https://insta-pizz-webapp-ahs.netlify.app/
 
 Enjoy your pizza experience with instapizz!
